@@ -1,0 +1,29 @@
+{
+  "item.tinmod.tin": "Tin",
+  "item.tinmod.raw_tin": "Raw Tin",
+  "item.tinmod.tin_sword": "Tin Sword",
+  "item.tinmod.tin_pickaxe": "Tin Pickaxe",
+  "item.tinmod.tin_axe": "Tin Axe",
+  "item.tinmod.tin_shovel": "Tin Shovel",
+  "item.tinmod.tin_hoe": "Tin Hoe",
+  "item.tinmod.tin_helmet": "Tin Helmet",
+  "item.tinmod.tin_chestplate": "Tin Chestplate",
+  "item.tinmod.tin_leggings": "Tin Leggings",
+  "item.tinmod.tin_boots": "Tin Boots",
+  "item.tinmod.tin_rod": "Tin Rod",
+  "item.tinmod.adamite": "Adamite",
+  "item.tinmod.bronze_axe": "Bronze Axe",
+  "item.tinmod.bronze_ingot": "Bronze Ingot",
+  "item.tinmod.bronze_pickaxe": "Bronze Pickaxe",
+  "item.tinmod.bronze_hoe": "Bronze Hoe",
+  "item.tinmod.bronze_shovel": "Bronze Shovel",
+
+  "block.tinmod.tin_block" : "Block of Tin",
+  "block.tinmod.tin_ore" : "Tin Ore",
+  "block.tinmod.adamite_ore" : "Adamite Ore",
+
+
+  "itemGroup.tintab": "Tin Tab"
+
+}
+

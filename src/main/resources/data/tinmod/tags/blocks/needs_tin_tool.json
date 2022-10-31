@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tinmod:tin_ore",
+    "tinmod:tin_block",
+    "tinmod:adamite_ore"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "tinmod:tin_rod"
+    },
+    "X": {
+      "item": "tinmod:bronze_ingot"
+    }
+  },
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "result": {
+    "item": "tinmod:bronze_axe"
+  }
+}
